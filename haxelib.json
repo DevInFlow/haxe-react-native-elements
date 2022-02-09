@@ -11,8 +11,8 @@
   ],
   "releasenote": "Initial release",
   "version": "0.1.0",
-  "url": "https://github.com/haxe-react/haxe-react-native-elements",
+  "url": "https://github.com/DevInFlow/haxe-react-native-elements",
   "dependencies": {
-    "react-native": ""
+    "react-native": "git::https://github.com/DevInFlow/react-native"
   }
 }
